@@ -1,7 +1,7 @@
 # ENGR 102 Lab Topic 6 (optional)
 
 ## Activities
-This **optional** lab consists of two activities. Please submit the following files to Gradescope.
+This **optional** lab consists of three activities. Please submit the following files to Gradescope.
 
 1. [Triangle Pyramid Area](#triangle-pyramid-area)
 2. [Collatz Conjecture](#collatz-conjecture)
